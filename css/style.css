@@ -48,6 +48,7 @@ section {
 
 .navbar {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background: #000;
 }
 
 .logo-text {
